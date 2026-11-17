@@ -103,3 +103,4 @@ adb -s 192.168.0.116:5555 install -r app/build/outputs/apk/debug/app-debug.apk
 ## 开源协议
 
 GPL v3
+test build apk
